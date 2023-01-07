@@ -24,7 +24,7 @@
 }
 .header-title{
     text-align: right;
-    padding-right: 108px;
+    padding-right: 80px;
     padding-top:216px;
     font-size: 45px;
     font-weight: 700;
@@ -32,7 +32,7 @@
 }
 .header-description{
     text-align: right;
-    margin: 24px 108px 32px 0;
+    margin: 24px 80px 32px 0;
     color: #FFFFFF;
 }
 /* new year description */
