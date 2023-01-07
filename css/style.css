@@ -26,7 +26,7 @@
     text-align: right;
     padding-right: 108px;
     padding-top:216px;
-    font-size: 65px;
+    font-size: 45px;
     font-weight: 700;
     color: #FFFFFF;
 }
@@ -42,11 +42,11 @@
     margin-top: 131px;
 }
 .new-year-img{
-     margin-left: 206px;
+     margin-left: 9px;
 }
 .new-year-title{
     text-align: right justify;
-    margin-right: 322px;
+    margin-right: 22px;
     margin-top: 270px;
     font-weight: 700;
     font-size: 40px;
@@ -57,7 +57,7 @@
     font-weight: 400;
     font-size: 16px;
     color: #444343;  
-    margin: 24px 322px 16px auto;
+    margin: 24px 22px 16px auto;
 }
 .new-year-tick{
     color: #444343;
@@ -96,9 +96,10 @@
     margin-top: 130px;
     background-repeat: no-repeat;
     height: 300px;
-    width: 1140px;
+    width: 80%;
+    /* background-position: center; */
     border-radius: 8px;
-    margin-left: 164px;   
+    margin-left: 116px;   
 }
 .banner-title{
     font-weight: 700;
@@ -106,7 +107,7 @@
     color: #FFFFFF;
     margin-left: 64px;
     padding-top: 3%;
-    width: 460px;
+    width: 560px;
 }
 /* footer section */
 .footer{
@@ -131,7 +132,7 @@
     font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;
-    width: 50%;
+    width: 100%;
 }
 .footer-email{
     margin-top: 24px;
@@ -151,6 +152,6 @@ ul li{
 
 input{
     margin-top: 15px;
-    padding: 12px 30px;
+    padding: 12px 32px;
     background: #151414;
 }
