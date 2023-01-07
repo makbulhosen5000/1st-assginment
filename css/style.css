@@ -11,6 +11,7 @@
     font-size: 20px;
     border: 0;
     border-radius: 5px;
+    margin-top: 32px;
 }
 /* header section */
 .header{
@@ -31,11 +32,97 @@
 }
 .header-description{
     text-align: right;
-    margin-right: 200px;
+    margin: 24px 200px 32px 0;
     color: #FFFFFF;
-    /* padding-right: 230px;
+}
+/* new year description */
+.new-year-section{
+    display: flex;
+    gap:87px;
+    margin-top: 131px;
+}
+.new-year-img{
+     margin-left: 206px;
+}
+.new-year-title{
+    text-align: right justify;
+    margin-right: 322px;
+    margin-top: 270px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.new-year-description{
+    text-align: right justify;
     font-weight: 400;
     font-size: 16px;
-    text-align: right;
-    color: #444343; */
+    color: #444343;  
+    margin: 24px 322px 16px auto;
+}
+.new-year-tick{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.my-plan .my-plan-title{
+    text-align: center;
+    margin-top:125px ;
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.my-plan .plan-title{
+    margin: 16px auto;
+    font-weight: 700;
+    font-size: 30px;
+}
+.my-plan .plan-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+    gap:10px;
+}
+.my-plan .my-plans{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap:30px;
+}
+/* banner section */
+.banner{
+    background-image: linear-gradient(90deg, #360bf4 -50%, rgba(10, 17, 155, 0) 100%), url(../images/watch.png);
+    margin-top: 130px;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 1140px;
+    border-radius: 8px;
+    margin-left: 230px;   
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-left: 64px;
+    padding-top: 59px;
+}
+/* footer section */
+.footer{
+    background-color: black;
+    color: #F8F8F8;
+    display: flex;
+    width: 1600px;
+    height: 577px;
+    align-items: center;
+    /* gap:231px; */
+    margin-top:130px;
+}
+.footer-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+input{
+    padding: 9px 30px;
+
 }
