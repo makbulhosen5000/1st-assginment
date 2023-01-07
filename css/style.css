@@ -105,7 +105,8 @@
     font-size: 40px;
     color: #FFFFFF;
     margin-left: 64px;
-    padding-top: 59px;
+    padding-top: 3%;
+    width: 460px;
 }
 /* footer section */
 .footer{
